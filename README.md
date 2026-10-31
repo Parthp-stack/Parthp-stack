@@ -138,12 +138,6 @@
 
 <div align="center">
 
-## 🪐 `// SATELLITE_RADAR :: ORBITAL_STACK`
-
-<img src="./assets/tech-orbit.svg" width="100%" alt="Orbiting Tech Satellite Radar"/>
-
-<br><br>
-
 ### 🧰 LOADED ARSENAL MODULES
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css,react,nodejs,express,flask,fastapi,mysql,postgres,mongodb,sqlite,git,github,docker,linux,vscode,postman&theme=dark" alt="Skills Matrix"/>
