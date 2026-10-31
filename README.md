@@ -1,109 +1,76 @@
-# 👋 Hi, I'm Parth Patil
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Data+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Always+Learning+%26+Building+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:DC2626&height=200&section=header&text=Parth%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20Student%20%7C%20Exploring%20AI&descAlignY=55&descSize=18" width="100%" alt="Header" />
 
-<p align="center">
-  <a href="https://github.com/Parthp-stack">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/parth-patil/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=Hi+there%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+C%2B%2B+%7C+Java+%7C+MySQL+%E2%9A%A1;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
 
----
+<br/>
+<br/>
 
-## 🚀 About Me
+<a href="https://github.com/Parthp-stack" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub"/>
+</a>
 
-- 🎓 CSE Data Science Student
-- 💻 Full Stack Developer
-- 🤖 Interested in AI, Machine Learning & Data Science
-- 🌐 Building real-world web applications
-- 🧠 Practicing DSA & problem solving
-- 🚀 Interested in startups and SaaS products
-- 🏆 Hackathon Participant
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🔴 About Me
 
-### Languages
+<table width="100%" border="0">
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-</p>
+<td width="60%" valign="top">
 
-### Web Development
+I'm **Parth Patil**, a CSE Data Science student passionate about software development, AI, and building real-world applications.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,nodejs" />
-</p>
+I enjoy developing web applications, working with databases, exploring AI technologies, and continuously improving my programming and problem-solving skills.
 
-### Database & Tools
+🎓 **Currently Pursuing:** B.Tech in CSE Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,androidstudio" />
-</p>
+🛠️ **Strong With:** Full-stack development, Python, C++, Java, MySQL and REST APIs
 
-### Data Science & AI
+🌱 **Currently Sharpening:** C++, Data Structures & Algorithms, Data Science and AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+🤝 **Open to Collaboration:** Web development, backend systems, AI projects and innovative software ideas
 
----
+🚀 **Goal:** Build useful technology and become a strong software engineer.
 
-## 🔥 Featured Projects
+> *Build. Learn. Improve. Repeat.*
 
-### 🍱 MessConnect
+</td>
 
-A platform designed to connect students and mess owners with features for attendance, payments and mess management.
+<td width="40%" align="center">
 
-### 📚 Student Notes Share
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
 
-A platform where students can upload, share and access academic notes.
+<br/>
 
-### 🧑‍💻 Face Recognition Attendance System
+<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
 
-An attendance management system using face recognition with Flask, MySQL and OpenCV.
+</td>
 
-### 📄 AI PDF Toolkit
+</tr>
+</table>
 
-An all-in-one PDF platform with PDF processing tools and AI-powered document features.
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+![Status](https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthp-stack&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Focus](https://img.shields.io/badge/Focus-AI_%26_Software_Development-DC2626?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthp-stack&theme=tokyonight&hide_border=true" />
-</p>
+![Learning](https://img.shields.io/badge/Learning-DSA_%26_Data_Science-111111?style=flat-square)
 
----
+</div>
 
-## 🐍 Contribution Snake
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake.svg" />
-</p>
+# 🛠️ Tech Stack & Skills
 
----
+<div align="center">
 
-## 📈 Currently Learning
+### 💻 Languages
 
-```text
-Data Structures & Algorithms
-        ↓
-Data Science
-        ↓
-Machine Learning
-        ↓
-Artificial Intelligence
-        ↓
-Advanced AI Applications
+<img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" alt
