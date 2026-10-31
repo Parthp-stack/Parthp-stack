@@ -1,40 +1,46 @@
 <div align="center">
 
-<!-- ANIMATED HERO HEADER -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    FUTURISTIC HERO                           -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:00152A,70:003B66,100:00BFFF&text=PARTH%20PATIL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=CODE%20%7C%20DATA%20%7C%20AI%20%7C%20INNOVATION&descSize=19&descAlignY=62&descColor=00E5FF" width="100%"/>
-
-<br>
-
-<!-- ANIMATED TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;DSA+%7C+Problem+Solving+%7C+Innovation+%F0%9F%A7%A0;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,30:00111F,65:003B66,100:00E5FF&text=PARTH%20PATIL&fontSize=68&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=CODE%20%7C%20DATA%20%7C%20AI%20%7C%20INNOVATION&descSize=19&descAlignY=62&descColor=00E5FF" width="100%"/>
 
 <br>
 
-<!-- ANIMATED DIVIDER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=INITIALIZING+PARTHP-STACK...;HEY%2C+I'M+PARTH+PATIL+%F0%9F%91%8B;CSE+DATA+SCIENCE+STUDENT+%F0%9F%8E%93;FULL+STACK+DEVELOPER+%F0%9F%92%BB;AI+%26+ML+EXPLORER+%F0%9F%A4%96;DSA+%7C+PROBLEM+SOLVING+%7C+INNOVATION+%F0%9F%A7%A0;TURNING+IDEAS+INTO+REAL+SOFTWARE+%F0%9F%9A%80" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47b9f00-7b5f-4b8b-8d9e-6c7b5e8c4c3e.gif" width="100%">
+<br><br>
 
-<br>
+<!-- ANIMATED CODE / DEVELOPER IMAGE -->
 
-<!-- SOCIAL BADGES -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430"/>
+
+<br><br>
+
+<!-- NEON STATUS -->
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING-00A8FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-FFFFFF?style=for-the-badge&labelColor=000000"/>
+
+<br><br>
 
 <a href="https://github.com/Parthp-stack">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050505&color=00A8FF"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&color=00A8FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=050505&color=0077B5"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=050505&color=00A8FF"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=00E5FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Parthp-stack&label=PROFILE%20VIEWS&color=00A8FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Parthp-stack&label=PROFILE%20VISITS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
@@ -46,63 +52,78 @@
 
 </div>
 
-### 👋 Hey there!
-
-I'm **Parth Patil**, a **CSE Data Science student** who loves building software, solving problems and exploring the world of AI.
-
-I enjoy taking an idea from **concept → code → working product**.
+<div align="center">
 
 ```text
-╔══════════════════════════════════════╗
-║  🎓 CSE DATA SCIENCE STUDENT         ║
-║  💻 FULL STACK DEVELOPER             ║
-║  🤖 AI / ML ENTHUSIAST               ║
-║  🧠 DSA & PROBLEM SOLVING            ║
-║  🚀 REAL WORLD SOFTWARE BUILDER      ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   > SYSTEM INITIALIZED                                     │
+│                                                             │
+│   NAME       : PARTH PATIL                                 │
+│   ROLE       : CSE DATA SCIENCE STUDENT                    │
+│   SPECIALITY : SOFTWARE • DATA • AI                        │
+│   MISSION    : BUILD REAL WORLD TECHNOLOGY                 │
+│                                                             │
+│   STATUS     : LEARNING → BUILDING → IMPROVING             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00A8FF&center=true&vCenter=true&width=850&height=60&lines=I+LOVE+BUILDING+SOFTWARE;I+LOVE+SOLVING+PROBLEMS;I+EXPLORE+AI+AND+DATA;I+TURN+IDEAS+INTO+WORKING+PRODUCTS;ALWAYS+LEARNING+SOMETHING+NEW" />
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 🚀 WHAT I DO
+# 🛰️ DEVELOPER SYSTEM
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="220">
 
 ### 💻
-**DEVELOP**
 
-Full-stack applications
-
-</td>
-
-<td align="center" width="180">
-
-### 🧠
-**SOLVE**
-
-DSA & complex problems
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-**EXPLORE**
-
-AI & Machine Learning
-
-</td>
-
-<td align="center" width="180">
-
-### ⚡
 **BUILD**
 
-Real-world solutions
+Full Stack Applications
+
+</td>
+
+<td align="center" width="220">
+
+### 🧠
+
+**SOLVE**
+
+DSA & Algorithms
+
+</td>
+
+<td align="center" width="220">
+
+### 🤖
+
+**EXPLORE**
+
+AI / ML / Data
+
+</td>
+
+<td align="center" width="220">
+
+### 🚀
+
+**CREATE**
+
+Real World Solutions
 
 </td>
 </tr>
@@ -116,13 +137,13 @@ Real-world solutions
 
 # 🧰 TECH STACK
 
-### 💻 LANGUAGES
+### ⚡ LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,php&theme=dark" />
 
 <br><br>
 
-### 🌐 WEB DEVELOPMENT
+### 🌐 WEB & BACKEND
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,flask&theme=dark" />
 
@@ -134,19 +155,31 @@ Real-world solutions
 
 <br><br>
 
-### 🔧 TOOLS
+### 🔧 DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" />
 
+<br><br>
+
+### 📊 DATA & AI
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🤖 CURRENTLY EXPLORING
+# 🧠 CURRENTLY EXPLORING
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=400&color=00A8FF&center=true&vCenter=true&width=700&lines=NumPy+%E2%86%92+Pandas+%E2%86%92+Data+Analytics;Machine+Learning+%E2%86%92+Deep+Learning;Generative+AI+%E2%86%92+LLMs;Advanced+DSA+%E2%86%92+Problem+Solving;Building+%E2%86%92+Testing+%E2%86%92+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1500&pause=350&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=NUMPY+%E2%86%92+PANDAS+%E2%86%92+DATA+ANALYTICS;MACHINE+LEARNING+%E2%86%92+DEEP+LEARNING;GENERATIVE+AI+%E2%86%92+LLMs;ADVANCED+DSA+%E2%86%92+PROBLEM+SOLVING;BUILDING+%E2%86%92+TESTING+%E2%86%92+DEPLOYING" />
 
 </div>
 
@@ -154,20 +187,36 @@ Real-world solutions
 
 <div align="center">
 
-# 🧠 CORE SKILLS
+# 🧩 CORE SKILLS
 
 ```text
-DATA STRUCTURES & ALGORITHMS
-        ↓
-OBJECT ORIENTED PROGRAMMING
-        ↓
-DATABASE MANAGEMENT SYSTEMS
-        ↓
-WEB DEVELOPMENT
-        ↓
-ARTIFICIAL INTELLIGENCE
-        ↓
-REAL WORLD SOFTWARE
+                    ┌───────────────────┐
+                    │   PROBLEM SOLVE   │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │       DSA         │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │       OOP         │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │      DBMS         │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │   WEB DEVELOPMENT │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │    AI / DATA      │
+                    └─────────┬─────────┘
+                              ↓
+                    ┌───────────────────┐
+                    │  REAL SOFTWARE    │
+                    └───────────────────┘
 ```
 
 </div>
@@ -184,10 +233,6 @@ REAL WORLD SOFTWARE
 
 <img src="https://streak-stats.demolab.com?user=Parthp-stack&hide_border=true&background=000000&ring=00E5FF&fire=00A8FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" height="190"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00A8FF" height="180"/>
-
 </div>
 
 ---
@@ -198,7 +243,21 @@ REAL WORLD SOFTWARE
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake Animation">
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1600&pause=500&color=00A8FF&center=true&vCenter=true&width=700&height=45&lines=CONTRIBUTIONS+DETECTED...;SYSTEM+ACTIVITY+UPDATING...;KEEP+CODING+%F0%9F%9A%80" />
 
 </div>
 
@@ -208,11 +267,50 @@ REAL WORLD SOFTWARE
 
 # ⚡ DEVELOPER MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1200&pause=350&color=00E5FF&center=true&vCenter=true&width=800&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK;DEBUG+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;THINK+%E2%86%92+CODE+%E2%86%92+CREATE;FAIL+FAST+%E2%86%92+LEARN+FASTER" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1200&pause=350&color=00E5FF&center=true&vCenter=true&width=900&height=80&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK;DEBUG+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;THINK+%E2%86%92+CODE+%E2%86%92+CREATE;FAIL+FAST+%E2%86%92+LEARN+FASTER;CODE+TODAY+%E2%86%92+BUILD+TOMORROW" />
+
+<br><br>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   [ THINK ] → [ CODE ] → [ TEST ] → [ DEPLOY ]          ║
+║                         ↓                                ║
+║                    [ IMPROVE ]                           ║
+║                         ↓                                ║
+║                    [ REPEAT ]                            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+> **"Don't just learn technology. Build something with it."**
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 SYSTEM STATUS
 
 <br>
 
-> **"Don't just learn technology. Build something with it."**
+<img src="https://img.shields.io/badge/●%20CODING-ACTIVE-00E5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/●%20LEARNING-ACTIVE-00A8FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/●%20BUILDING-ACTIVE-FFFFFF?style=for-the-badge&labelColor=000000"/>
+
+<br><br>
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  CPU   ███████████████░░░░░   LEARNING            │
+│  RAM   █████████████████░░░   BUILDING            │
+│  AI    ████████████░░░░░░░   EXPLORING           │
+│  DSA   ██████████████░░░░░   PRACTICING          │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -234,18 +332,20 @@ REAL WORLD SOFTWARE
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=00A8FF&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+%F0%9F%9A%80;Code.+Create.+Innovate.+%E2%9A%A1;See+you+in+the+next+commit+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=750&height=60&lines=LET'S+BUILD+SOMETHING+AMAZING+%F0%9F%9A%80;CODE.+CREATE.+INNOVATE.+%E2%9A%A1;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%91%8B;KEEP+BUILDING.+KEEP+LEARNING." />
 
 </div>
 
 <br>
 
-<!-- ANIMATED FOOTER -->
+<!-- FUTURISTIC FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00BFFF,35:003B66,70:00152A,100:000000&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,35:003B66,70:00111F,100:000000&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-### 🖤 `PARTHP-STACK` • CODE • DATA • AI
+### `PARTHP-STACK` • CODE • DATA • AI • INNOVATION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=700&color=00A8FF&center=true&vCenter=true&width=500&height=35&lines=SYSTEM+ONLINE...;READY+FOR+THE+NEXT+BUILD..." />
 
 </div>
