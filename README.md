@@ -46,8 +46,6 @@
 
 </div>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
-
 ### 👋 Hey there!
 
 I'm **Parth Patil**, a **CSE Data Science student** who loves building software, solving problems and exploring the world of AI.
@@ -63,8 +61,6 @@ I enjoy taking an idea from **concept → code → working product**.
 ║  🚀 REAL WORLD SOFTWARE BUILDER      ║
 ╚══════════════════════════════════════╝
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -165,7 +161,7 @@ DATA STRUCTURES & ALGORITHMS
         ↓
 OBJECT ORIENTED PROGRAMMING
         ↓
-DATABASE MANAGEMENT
+DATABASE MANAGEMENT SYSTEMS
         ↓
 WEB DEVELOPMENT
         ↓
@@ -200,7 +196,9 @@ REAL WORLD SOFTWARE
 
 # 🐍 CONTRIBUTION MATRIX
 
-<img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br>
+
+<img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
