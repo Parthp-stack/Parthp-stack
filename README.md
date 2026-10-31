@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3B82,100:00D9FF&height=220&section=header&text=Parth%20Patil&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20%7C%20Full%20Stack%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18" width="100%" alt="Parth Patil Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0B5ED7,100:00D9FF&text=PARTH%20PATIL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=CSE%20DATA%20SCIENCE%20%7C%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=62&descColor=E0F2FE" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Real+World+Software+%F0%9F%9A%80" alt="Typing Animation"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Real+World+Software+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br><br>
 
 <a href="https://github.com/Parthp-stack">
-<img src="https://img.shields.io/badge/GitHub-@Parthp--stack-020617?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=020617" />
+<img src="https://img.shields.io/badge/GITHUB-Parthp--stack-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
 </div>
@@ -16,94 +18,87 @@
 
 # 👨‍💻 About Me
 
-I'm **Parth Patil**, a **CSE Data Science student** passionate about software development, artificial intelligence, and building practical technology.
+Hi, I'm **Parth Patil** — a **CSE Data Science student** passionate about software development, AI, and building useful real-world applications.
 
-I enjoy turning ideas into working applications using **programming, databases, web technologies, and AI** while continuously improving my problem-solving and development skills.
-
-```text
-🎓 CSE Data Science Student
-💻 Full Stack Developer
-🤖 AI & ML Explorer
-🧠 DSA & Problem Solving
-📊 Data Science Enthusiast
-🚀 Real-World Product Builder
-```
-
-> **Build → Learn → Improve → Repeat.**
-
----
-
-# ⚡ What I Do
+I enjoy combining **programming, databases, web technologies, and AI** to turn ideas into working products.
 
 <div align="center">
 
-| 💻 Development | 🤖 AI & Data | 🧠 Problem Solving |
+| 🎓 Education | 💻 Development | 🤖 Interests |
 |:---:|:---:|:---:|
-| Full Stack Apps | AI Integrations | Data Structures |
-| Backend Systems | Machine Learning | Algorithms |
-| REST APIs | Data Science | Competitive Thinking |
-| Database Systems | LLM Applications | Software Engineering |
+| CSE Data Science | Full Stack | Artificial Intelligence |
+| B.Tech Student | Backend Systems | Machine Learning |
+| Problem Solving | REST APIs | Data Science |
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack & Skills
+# ⚡ What I Do
+
+```text
+💻  Full Stack Development
+🤖  AI & LLM Integration
+📊  Data Science
+🧠  Data Structures & Algorithms
+🗄️  Database Development
+🚀  Rapid Product Development
+```
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,php&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/phpMyAdmin-2563EB?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=071A2F" />
-
-<br/><br/>
+<br><br>
 
 ### 🔌 Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=flask,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,postman&theme=dark"/>
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PHPMailer-071A2F?style=for-the-badge&logo=php&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHPMailer-071A2F?style=for-the-badge&logo=php&logoColor=60A5FA"/>
 
-<br/><br/>
+<br><br>
 
 ### 🤖 AI & LLM
 
-<img src="https://img.shields.io/badge/OpenAI_API-2563EB?style=for-the-badge&logo=openai&logoColor=white&labelColor=071A2F" />
-<img src="https://img.shields.io/badge/LLM_Integration-00D9FF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=071A2F" />
+<img src="https://img.shields.io/badge/OpenAI%20API-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-00D9FF?style=for-the-badge&logoColor=020617"/>
 
-<br/><br/>
+<br><br>
 
 ### 🧠 Core Computer Science
 
-<img src="https://img.shields.io/badge/OOP-071A2F?style=for-the-badge&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Data_Structures-071A2F?style=for-the-badge&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/DBMS-071A2F?style=for-the-badge&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Operating_Systems-071A2F?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/OOP-071A2F?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/DSA-071A2F?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/DBMS-071A2F?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-071A2F?style=for-the-badge&logoColor=00D9FF"/>
 
-<br/><br/>
+<br><br>
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
 
 </div>
 
@@ -114,15 +109,15 @@ I enjoy turning ideas into working applications using **programming, databases, 
 <div align="center">
 
 ```text
-       Data Structures & Algorithms
-                    ↓
-             Data Science
-                    ↓
-          Machine Learning
-                    ↓
-       Artificial Intelligence
-                    ↓
-       Advanced AI Applications
+       C++ & DSA
+          ↓
+     Data Science
+          ↓
+   Machine Learning
+          ↓
+ Artificial Intelligence
+          ↓
+    Advanced AI Apps
 ```
 
 </div>
@@ -131,14 +126,14 @@ I enjoy turning ideas into working applications using **programming, databases, 
 
 # 🎯 Current Focus
 
-```text
-🔵 Strengthening C++ & DSA
-🔵 Building Full Stack Applications
-🔵 Exploring AI & LLM Integration
-🔵 Learning Data Science & Machine Learning
-🔵 Improving Software Engineering Skills
-🔵 Building Useful Real-World Products
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Full%20Stack-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Data%20Science-2563EB?style=for-the-badge&labelColor=020617"/>
+
+</div>
 
 ---
 
@@ -146,44 +141,44 @@ I enjoy turning ideas into working applications using **programming, databases, 
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Parthp-stack&show_icons=true&bg_color=020617&title_color=00D9FF&text_color=F8FAFC&icon_color=38BDF8&border_color=2563EB&border_radius=12" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parthp-stack&show_icons=true&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=FFFFFF&icon_color=38BDF8" width="48%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&bg_color=020617&title_color=00D9FF&text_color=F8FAFC&border_color=2563EB&border_radius=12" width="39%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&hide_border=true&bg_color=020617&title_color=00D9FF&text_color=FFFFFF" width="40%"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthp-stack&theme=dark&hide_border=false&border=2563EB&background=020617&ring=00D9FF&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00D9FF&sideLabels=38BDF8&dates=94A3B8" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Parthp-stack&theme=dark&hide_border=true&background=020617&ring=00D9FF&fire=38BDF8&currStreakLabel=00D9FF&sideLabels=38BDF8" width="70%"/>
 
 </div>
 
 ---
 
-# ⚡ Contribution Journey
+# 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🌱 My Developer Mindset
+# 🌱 Developer Mindset
 
 <div align="center">
 
 ```text
-       Learn Something
-             ↓
-       Build Something
-             ↓
-       Break Something
-             ↓
-        Fix It
-             ↓
-       Learn Again
-             ↓
-          🚀
+        LEARN
+          ↓
+        BUILD
+          ↓
+       TEST
+          ↓
+        FIX
+          ↓
+       IMPROVE
+          ↓
+        🚀
 ```
 
 </div>
@@ -194,32 +189,26 @@ I enjoy turning ideas into working applications using **programming, databases, 
 
 <div align="center">
 
-I'm always open to **collaboration, interesting ideas, hackathons, AI projects, and software development opportunities.**
+Open to **collaboration, hackathons, AI projects, software development, and interesting ideas.**
 
-<br/>
+<br><br>
 
 <a href="https://github.com/Parthp-stack">
-
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF" />
-
+<img src="https://img.shields.io/badge/GitHub-Parthp--stack-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### 💙 Code • Learn • Build • Innovate
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00D9FF,50:2563EB,100:020617&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:020617&height=120&section=footer" width="100%" />
+### `Code • Learn • Build • Innovate`
 
 </div>
