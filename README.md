@@ -12,10 +12,15 @@
 
 <br>
 
-<!-- FUTURISTIC DIVIDER -->
+<!-- CYBER LASER DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28" alt="Cyber Neon Divider"/>
 
 <br>
+
+<!-- ANIMATED CYBERPUNK CODER VISUAL -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Futuristic Developer Visual"/>
+
+<br><br>
 
 <!-- REALTIME STATUS PILLS -->
 <img src="https://img.shields.io/badge/CORE_STATUS-ONLINE%20%E2%97%8F-00E5FF?style=for-the-badge&labelColor=05070F&color=00E5FF" alt="Core Status Online"/>
@@ -57,21 +62,15 @@
 
 ## 📡 `// SYSTEM_SPECIFICATION :: ABOUT_ME`
 
-</div>
+<!-- ANIMATED CYBERNETIC HUD GRAPHIC (REPLACES PLAIN TEXT BOX) -->
+<img src="./assets/system-hud.svg" width="100%" alt="Futuristic System HUD Diagnostics"/>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  [ OPERATOR IDENTITY ] : Parth Patil                                             ║
-║  [ SPECIALIZATION ]    : Computer Science & Engineering (Data Science)           ║
-║  [ DIRECTIVE ]         : Engineer High-Performance Software, Data & AI Models    ║
-║  [ ACTIVE PIPELINE ]   : Scalable Web Apps ➔ Machine Learning ➔ Deep Tech       ║
-║  [ OPERATIONAL PHIL ]  : "Don't just observe technology — build the future."     ║
-║  [ ENVIRONMENT ]       : Windows • Linux • Cyberspace                            ║
-║  [ STATUS ]            : READY TO DEPLOY & COLLABORATE                           ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+<br><br>
 
-<div align="center">
+<!-- ANIMATED CYBER GLOBE & MISSION BANNER -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Holographic Cyber Core"/>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00D2FF&center=true&vCenter=true&width=850&height=55&lines=Building+Next-Gen+Intelligent+Applications;Architecting+Clean%2C+Reliable+%26+Modular+Codebases;Turning+Raw+Data+into+Actionable+Intelligence;Always+Pushing+the+Boundaries+of+Innovation" alt="Mission Typing"/>
 
@@ -181,65 +180,55 @@
 <br>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                 🧬 ALGORITHMIC PIPELINE DIAGRAM                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🧬 `// EXECUTION_FLOW :: PIPELINE`
-
-```text
-   ┌───────────────────────┐
-   │  PROBLEM DEFINITION   │ ── [ Deconstruct Complexity ]
-   └───────────┬───────────┘
-               ▼
-   ┌───────────────────────┐
-   │ DATA STRUCTURE & DSA  │ ── [ Optimize Time & Space Complexity ]
-   └───────────┬───────────┘
-               ▼
-   ┌───────────────────────┐
-   │ ARCHITECTURAL DESIGN  │ ── [ OOP • Modularity • Clean Code ]
-   └───────────┬───────────┘
-               ▼
-   ┌───────────────────────┐
-   │ AI & DATA ENHANCEMENT │ ── [ Machine Learning • Insights ]
-   └───────────┬───────────┘
-               ▼
-   ┌───────────────────────┐
-   │ PRODUCTION DEPLOYMENT │ ── [ Scalable & High-Impact Solution ]
-   └───────────────────────┘
-```
-
-</div>
-
-<br>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--              📊 LIVE GITHUB TELEMETRY & ANALYTICS              -->
+<!--                 🧬 ANIMATED EXECUTION PIPELINE                 -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28" alt="Cyber Divider"/>
 
 <div align="center">
 
-## 📊 `// TELEMETRY :: GITHUB_METRICS`
+## 🧬 `// EXECUTION_FLOW :: PIPELINE_MATRIX`
+
+<!-- ANIMATED PIPELINE SVG (REPLACES PLAIN TEXT BOX) -->
+<img src="./assets/dev-pipeline.svg" width="100%" alt="Animated Developer Execution Pipeline"/>
+
+<br><br>
+
+<!-- MATRIX CODE STREAM VISUAL -->
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="440" alt="Matrix Cyber Rain Visual"/>
+
+</div>
 
 <br>
 
-<!-- STREAK STATS -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--      📊 GITHUB TELEMETRY & METRICS (IMMUNE TO RATE LIMITS)     -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28" alt="Cyber Divider"/>
+
+<div align="center">
+
+## 📊 `// TELEMETRY :: QUANTUM_METRICS`
+
+<!-- ANIMATED CUSTOM TELEMETRY GAUGE (NEVER FAILS / ZERO RATE LIMITS) -->
+<img src="./assets/telemetry-stats.svg" width="100%" alt="System Capacity & Telemetry Matrix"/>
+
+<br><br>
+
+<!-- GITHUB STREAK STATS (RELIABLE DEMOLAB SERVICE) -->
 <img src="https://streak-stats.demolab.com?user=Parthp-stack&theme=tokyonight&hide_border=true&background=05070F&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00D2FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak Stats" height="195"/>
 
 <br><br>
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Parthp-stack&show_icons=true&hide_border=true&bg_color=05070F&title_color=00E5FF&text_color=E6EDF3&icon_color=00E5FF&border_color=00E5FF&rank_icon=github" alt="Parth's GitHub Stats" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&hide_border=true&bg_color=05070F&title_color=00E5FF&text_color=E6EDF3&border_color=00E5FF" alt="Top Languages" height="185"/>
+<!-- PROFILE DETAILS & LANGUAGE SUMMARY -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthp-stack&theme=tokyonight" alt="GitHub Profile Summary" width="92%"/>
 
 <br><br>
 
-<!-- PROFILE DETAILS SUMMARY CARD -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parthp-stack&theme=tokyonight" alt="GitHub Profile Summary" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parthp-stack&theme=tokyonight" alt="Top Languages" width="46%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parthp-stack&theme=tokyonight" alt="GitHub Overview Stats" width="46%"/>
 
 </div>
 
@@ -279,19 +268,10 @@
 
 <br>
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   [ ANALYZE ] ───► [ ARCHITECT ] ───► [ EXECUTE ] ───► [ DEPLOY ]      │
-│                            │                                           │
-│                            ▼                                           │
-│                 [ BENCHMARK & OPTIMIZE ]                               │
-│                            │                                           │
-│                            ▼                                           │
-│                 [ CONTINUOUS EVOLUTION ]                               │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+<!-- HOLOGRAPHIC SCI-FI RADAR -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Cyber Radar HUD"/>
+
+<br><br>
 
 > *"The best way to predict the future is to write the code that creates it."*
 
