@@ -1,206 +1,216 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=200&section=header&text=Parth%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20Student%20%7C%20Exploring%20AI&descAlignY=55&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B3B82,100:00D9FF&height=220&section=header&text=Parth%20Patil&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Data%20Science%20%7C%20Full%20Stack%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18" width="100%" alt="Parth Patil Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=Hi+there%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+C%2B%2B+%7C+Java+%7C+MySQL+%E2%9A%A1;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=Hi%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Real+World+Software+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br/>
-<br/>
 
-<a href="https://github.com/Parthp-stack" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-071A2F?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=020617" alt="GitHub"/>
+<a href="https://github.com/Parthp-stack">
+<img src="https://img.shields.io/badge/GitHub-@Parthp--stack-020617?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=020617" />
 </a>
 
 </div>
 
-<br/>
+---
 
-# 🔵 About Me
+# 👨‍💻 About Me
 
-<table width="100%" border="0">
-<tr>
+I'm **Parth Patil**, a **CSE Data Science student** passionate about software development, artificial intelligence, and building practical technology.
 
-<td width="60%" valign="top">
+I enjoy turning ideas into working applications using **programming, databases, web technologies, and AI** while continuously improving my problem-solving and development skills.
 
-I'm **Parth Patil**, a CSE Data Science student passionate about software development, AI, and building real-world applications.
+```text
+🎓 CSE Data Science Student
+💻 Full Stack Developer
+🤖 AI & ML Explorer
+🧠 DSA & Problem Solving
+📊 Data Science Enthusiast
+🚀 Real-World Product Builder
+```
 
-I enjoy developing web applications, working with databases, exploring AI technologies, and continuously improving my programming and problem-solving skills.
+> **Build → Learn → Improve → Repeat.**
 
-🎓 **Currently Pursuing:** B.Tech in CSE Data Science
+---
 
-🛠️ **Strong With:** Full-stack development, Python, C++, Java, MySQL and REST APIs
-
-🌱 **Currently Sharpening:** C++, Data Structures & Algorithms, Data Science and AI
-
-🤝 **Open to Collaboration:** Web development, backend systems, AI projects and innovative software ideas
-
-🚀 **Goal:** Build useful technology and become a strong software engineer.
-
-> *Build. Learn. Improve. Repeat.*
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="65%" style="max-width:320px;border-radius:12px;" alt="Developer coding animation"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
+# ⚡ What I Do
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-🟢_Building_%26_Learning-071A2F?style=flat-square)
-
-![Focus](https://img.shields.io/badge/Focus-AI_%26_Software_Development-2563EB?style=flat-square)
-
-![Learning](https://img.shields.io/badge/Learning-DSA_%26_Data_Science-071A2F?style=flat-square)
+| 💻 Development | 🤖 AI & Data | 🧠 Problem Solving |
+|:---:|:---:|:---:|
+| Full Stack Apps | AI Integrations | Data Structures |
+| Backend Systems | Machine Learning | Algorithms |
+| REST APIs | Data Science | Competitive Thinking |
+| Database Systems | LLM Applications | Software Engineering |
 
 </div>
 
-<br/>
+---
 
 # 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,php&theme=dark" />
 
-<hr/>
+<br/><br/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" />
 
-<hr/>
+<br/><br/>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/phpMyAdmin-2563EB?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=071A2F" alt="phpMyAdmin"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-2563EB?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=071A2F" />
 
-<hr/>
+<br/><br/>
 
-### 🔌 Backend, APIs & Messaging Services
+### 🔌 Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=flask,postman&theme=dark" alt="Backend & APIs"/>
+<img src="https://skillicons.dev/icons?i=flask,postman&theme=dark" />
 
-<img src="https://img.shields.io/badge/PHPMailer-071A2F?style=for-the-badge&logo=php&logoColor=60A5FA" alt="PHPMailer"/>
+<br/>
 
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHPMailer-071A2F?style=for-the-badge&logo=php&logoColor=60A5FA" />
 
-<hr/>
+<br/><br/>
 
-### 🤖 AI Integration
+### 🤖 AI & LLM
 
-<img src="https://img.shields.io/badge/OpenAI_API-2563EB?style=for-the-badge&logo=openai&logoColor=white&labelColor=071A2F" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/OpenAI_API-2563EB?style=for-the-badge&logo=openai&logoColor=white&labelColor=071A2F" />
+<img src="https://img.shields.io/badge/LLM_Integration-00D9FF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=071A2F" />
 
-<img src="https://img.shields.io/badge/LLM_Integration-00BFFF?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=071A2F" alt="LLM Integration"/>
+<br/><br/>
 
-<hr/>
+### 🧠 Core Computer Science
 
-### 🧠 Core CS
+<img src="https://img.shields.io/badge/OOP-071A2F?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Data_Structures-071A2F?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/DBMS-071A2F?style=for-the-badge&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/Operating_Systems-071A2F?style=for-the-badge&logoColor=00D9FF" />
 
-![OOP](https://img.shields.io/badge/OOP-071A2F?style=for-the-badge)
-
-![Data Structures](https://img.shields.io/badge/Data_Structures-071A2F?style=for-the-badge)
-
-![DBMS](https://img.shields.io/badge/DBMS-071A2F?style=for-the-badge)
-
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-071A2F?style=for-the-badge)
-
-<hr/>
+<br/><br/>
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Tools"/>
-
-<img src="https://img.shields.io/badge/Antigravity-071A2F?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
 
 </div>
 
-<br/>
+---
 
 # 📚 Currently Learning
 
 <div align="center">
 
 ```text
-Data Structures & Algorithms
-            ↓
-       Data Science
-            ↓
-    Machine Learning
-            ↓
-   Artificial Intelligence
-            ↓
-     Advanced AI Apps
+       Data Structures & Algorithms
+                    ↓
+             Data Science
+                    ↓
+          Machine Learning
+                    ↓
+       Artificial Intelligence
+                    ↓
+       Advanced AI Applications
 ```
 
 </div>
 
-<br/>
+---
 
-# 📊 GitHub Analytics & Activity
+# 🎯 Current Focus
+
+```text
+🔵 Strengthening C++ & DSA
+🔵 Building Full Stack Applications
+🔵 Exploring AI & LLM Integration
+🔵 Learning Data Science & Machine Learning
+🔵 Improving Software Engineering Skills
+🔵 Building Useful Real-World Products
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Parthp-stack&show_icons=true&bg_color=020617&title_color=00BFFF&text_color=f3f4f6&icon_color=2563EB&border_color=2563EB&border_radius=8" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Parthp-stack&show_icons=true&bg_color=020617&title_color=00D9FF&text_color=F8FAFC&icon_color=38BDF8&border_color=2563EB&border_radius=12" width="49%" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&bg_color=020617&title_color=00BFFF&text_color=f3f4f6&border_color=2563EB&border_radius=8" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&bg_color=020617&title_color=00D9FF&text_color=F8FAFC&border_color=2563EB&border_radius=12" width="39%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthp-stack&theme=dark&hide_border=false&border=2563EB&background=020617&ring=00BFFF&fire=2563EB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=94A3B8" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthp-stack&theme=dark&hide_border=false&border=2563EB&background=020617&ring=00D9FF&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=00D9FF&sideLabels=38BDF8&dates=94A3B8" width="70%" />
 
 </div>
 
-<br/>
+---
 
 # ⚡ Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
-<br/>
+---
 
-# 📬 Let's Connect & Collaborate
+# 🌱 My Developer Mindset
 
 <div align="center">
 
-Whether it's a web development project, a backend challenge, an AI idea, or just talking code — I'm always open to connecting and collaborating.
+```text
+       Learn Something
+             ↓
+       Build Something
+             ↓
+       Break Something
+             ↓
+        Fix It
+             ↓
+       Learn Again
+             ↓
+          🚀
+```
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to **collaboration, interesting ideas, hackathons, AI projects, and software development opportunities.**
 
 <br/>
-<br/>
 
-<a href="https://github.com/Parthp-stack" target="_blank">
+<a href="https://github.com/Parthp-stack">
 
-<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GitHub-Follow-071A2F?style=for-the-badge&logo=github&logoColor=00BFFF&labelColor=020617" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF" />
 
 </a>
 
-<br/>
+&nbsp;
 
-<sub><b>Code • Learn • Build • Innovate</b></sub>
+<a href="https://www.linkedin.com/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</a>
 
 </div>
 
@@ -208,6 +218,8 @@ Whether it's a web development project, a backend challenge, an AI idea, or just
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=100&section=footer" width="100%" alt="Footer"/>
+### 💙 Code • Learn • Build • Innovate
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:020617&height=120&section=footer" width="100%" />
 
 </div>
