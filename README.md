@@ -1,34 +1,40 @@
 <div align="center">
 
-<!-- ==================== ANIMATED HERO ==================== -->
+<!-- ANIMATED HERO HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,35:171000,70:4D3B00,100:FFD600&text=PARTH%20PATIL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=CODE%20%7C%20DATA%20%7C%20AI%20%7C%20INNOVATION&descSize=19&descAlignY=62&descColor=FFD600" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,35:00152A,70:003B66,100:00BFFF&text=PARTH%20PATIL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=CODE%20%7C%20DATA%20%7C%20AI%20%7C%20INNOVATION&descSize=19&descAlignY=62&descColor=00E5FF" width="100%"/>
 
 <br>
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+<!-- ANIMATED TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&color=FFD600&center=true&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;DSA+%7C+Problem+Solving+%7C+Innovation+%F0%9F%A7%A0;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Hey%2C+I'm+Parth+Patil+%F0%9F%91%8B;CSE+Data+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;DSA+%7C+Problem+Solving+%7C+Innovation+%F0%9F%A7%A0;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" />
 
-<br><br>
+<br>
 
-<!-- ==================== SOCIAL ==================== -->
+<!-- ANIMATED DIVIDER -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47b9f00-7b5f-4b8b-8d9e-6c7b5e8c4c3e.gif" width="100%">
+
+<br>
+
+<!-- SOCIAL BADGES -->
 
 <a href="https://github.com/Parthp-stack">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFD600&labelColor=000000&color=FFD600"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=050505&color=00A8FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD600&labelColor=000000&color=FFD600"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=050505&color=0077B5"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFD600&labelColor=000000&color=FFD600"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=050505&color=00A8FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Parthp-stack&label=PROFILE%20VIEWS&color=FFD600&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Parthp-stack&label=PROFILE%20VIEWS&color=00A8FF&style=for-the-badge" />
 
 </div>
 
@@ -38,83 +44,71 @@
 
 # ⚡ ABOUT ME
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1700&pause=500&color=FFB800&center=true&vCenter=true&width=700&lines=Developer+%7C+Learner+%7C+Builder;Turning+Ideas+Into+Working+Software;Always+Learning+Something+New" />
-
 </div>
 
-<br>
+<img align="right" width="300" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
 
-I'm **Parth Patil**, a **CSE Data Science student** passionate about software development, problem solving, artificial intelligence and building practical technology.
+### 👋 Hey there!
 
-I enjoy taking an idea from:
+I'm **Parth Patil**, a **CSE Data Science student** who loves building software, solving problems and exploring the world of AI.
+
+I enjoy taking an idea from **concept → code → working product**.
 
 ```text
-💡 IDEA
-   ↓
-🧠 THINK
-   ↓
-💻 CODE
-   ↓
-🧪 TEST
-   ↓
-🚀 BUILD
-   ↓
-⚡ IMPROVE
+╔══════════════════════════════════════╗
+║  🎓 CSE DATA SCIENCE STUDENT         ║
+║  💻 FULL STACK DEVELOPER             ║
+║  🤖 AI / ML ENTHUSIAST               ║
+║  🧠 DSA & PROBLEM SOLVING            ║
+║  🚀 REAL WORLD SOFTWARE BUILDER      ║
+╚══════════════════════════════════════╝
 ```
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-# 🚀 WHAT I DO
+## 🚀 WHAT I DO
 
 <table>
 <tr>
-
 <td align="center" width="180">
 
-## 💻
+### 💻
+**DEVELOP**
 
-### DEVELOP
-
-Full Stack  
-Applications
+Full-stack applications
 
 </td>
 
 <td align="center" width="180">
 
-## 🧠
+### 🧠
+**SOLVE**
 
-### SOLVE
-
-DSA  
-Problems
+DSA & complex problems
 
 </td>
 
 <td align="center" width="180">
 
-## 🤖
+### 🤖
+**EXPLORE**
 
-### EXPLORE
-
-AI &  
-Machine Learning
+AI & Machine Learning
 
 </td>
 
 <td align="center" width="180">
 
-## ⚡
+### ⚡
+**BUILD**
 
-### BUILD
-
-Real World  
-Solutions
+Real-world solutions
 
 </td>
-
 </tr>
 </table>
 
@@ -124,7 +118,7 @@ Solutions
 
 <div align="center">
 
-# 🛠️ TECH STACK
+# 🧰 TECH STACK
 
 ### 💻 LANGUAGES
 
@@ -154,9 +148,9 @@ Solutions
 
 <div align="center">
 
-# 🤖 CURRENTLY LEARNING
+## 🤖 CURRENTLY EXPLORING
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1500&pause=400&color=FFD600&center=true&vCenter=true&width=750&lines=NumPy+%7C+Pandas+%7C+Data+Analytics;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs;Advanced+DSA+%7C+Problem+Solving;Building+Smarter+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=400&color=00A8FF&center=true&vCenter=true&width=700&lines=NumPy+%E2%86%92+Pandas+%E2%86%92+Data+Analytics;Machine+Learning+%E2%86%92+Deep+Learning;Generative+AI+%E2%86%92+LLMs;Advanced+DSA+%E2%86%92+Problem+Solving;Building+%E2%86%92+Testing+%E2%86%92+Improving" />
 
 </div>
 
@@ -167,19 +161,17 @@ Solutions
 # 🧠 CORE SKILLS
 
 ```text
-┌───────────────────────────────────────────┐
-│        DATA STRUCTURES & ALGORITHMS       │
-├───────────────────────────────────────────┤
-│        OBJECT ORIENTED PROGRAMMING        │
-├───────────────────────────────────────────┤
-│        DATABASE MANAGEMENT SYSTEMS        │
-├───────────────────────────────────────────┤
-│             WEB DEVELOPMENT               │
-├───────────────────────────────────────────┤
-│        ARTIFICIAL INTELLIGENCE            │
-├───────────────────────────────────────────┤
-│          SOFTWARE DEVELOPMENT             │
-└───────────────────────────────────────────┘
+DATA STRUCTURES & ALGORITHMS
+        ↓
+OBJECT ORIENTED PROGRAMMING
+        ↓
+DATABASE MANAGEMENT
+        ↓
+WEB DEVELOPMENT
+        ↓
+ARTIFICIAL INTELLIGENCE
+        ↓
+REAL WORLD SOFTWARE
 ```
 
 </div>
@@ -192,13 +184,13 @@ Solutions
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parthp-stack&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFD600&text_color=FFFFFF&icon_color=FFD600" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Parthp-stack&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00A8FF&ring_color=00E5FF" height="190"/>
 
-<img src="https://streak-stats.demolab.com?user=Parthp-stack&hide_border=true&background=000000&ring=FFD600&fire=FFB800&currStreakLabel=FFD600&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" height="190"/>
+<img src="https://streak-stats.demolab.com?user=Parthp-stack&hide_border=true&background=000000&ring=00E5FF&fire=00A8FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" height="190"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&hide_border=true&bg_color=000000&title_color=FFD600&text_color=FFFFFF&icon_color=FFD600" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthp-stack&layout=compact&hide_border=true&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00A8FF" height="180"/>
 
 </div>
 
@@ -206,11 +198,9 @@ Solutions
 
 <div align="center">
 
-# 🐍 CONTRIBUTION ACTIVITY
+# 🐍 CONTRIBUTION MATRIX
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthp-stack&bg_color=000000&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true&custom_title=Parth%20Patil%27s%20Contribution%20Activity" width="95%"/>
+<img src="https://raw.githubusercontent.com/Parthp-stack/Parthp-stack/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -220,11 +210,11 @@ Solutions
 
 # ⚡ DEVELOPER MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1200&pause=350&color=FFD600&center=true&vCenter=true&width=850&height=80&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK;DEBUG+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;THINK+%E2%86%92+CODE+%E2%86%92+CREATE;FAIL+FAST+%E2%86%92+LEARN+FASTER" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1200&pause=350&color=00E5FF&center=true&vCenter=true&width=800&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK;DEBUG+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;THINK+%E2%86%92+CODE+%E2%86%92+CREATE;FAIL+FAST+%E2%86%92+LEARN+FASTER" />
 
 <br>
 
-### `BUILDING TODAY. BETTER TOMORROW.`
+> **"Don't just learn technology. Build something with it."**
 
 </div>
 
@@ -232,29 +222,29 @@ Solutions
 
 <div align="center">
 
-# 🌐 CONNECT WITH ME
+# 🌐 CONNECT
 
 <br>
 
 <a href="https://github.com/Parthp-stack">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFD600&color=FFD600"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&color=00A8FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD600&color=FFD600"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=FFD600&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+%F0%9F%9A%80;Code.+Create.+Innovate.+%E2%9A%A1;See+you+in+the+next+commit+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=00A8FF&center=true&vCenter=true&width=650&lines=Let's+build+something+amazing+%F0%9F%9A%80;Code.+Create.+Innovate.+%E2%9A%A1;See+you+in+the+next+commit+%F0%9F%91%8B" />
 
 </div>
 
 <br>
 
-<!-- ==================== ANIMATED FOOTER ==================== -->
+<!-- ANIMATED FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:FFD600,35:5C4700,70:171000,100:000000&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00BFFF,35:003B66,70:00152A,100:000000&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
 
